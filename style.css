@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "spotify-circular";
+  src: url("./assets/fonts/CircularStd-Medium.otf") format("opentype");
+}
+* {
+  font-family: "spotify-circular", Helvetica, sans-serif;
+}
